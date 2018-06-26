@@ -1,0 +1,27 @@
+body
+{
+  background-color:aqua;
+  color:black;
+}
+
+#SiteTitle
+{
+  color:blue;
+}
+
+header
+{                                      text-align:center;
+background-color: white;  
+}
+
+section
+{
+  text-align:center;
+ background-color:white;
+}
+
+footer
+{
+  text-align:center;
+  background-color:white
+}
